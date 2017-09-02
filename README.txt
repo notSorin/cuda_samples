@@ -1,4 +1,3 @@
-# cuda_samples
 Some examples of CUDA applications.
 
 -canny edge detection: detects edges in BMP images
